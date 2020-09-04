@@ -76,7 +76,7 @@
 * [결측값 처리](./pandas_데이터정제.md) : dropna, fillna
 * [데이터 변형](./pandas_데이터정제.md) : duplicated, replace, rename, cut/qcut, sampling, get_dummies
 * [문자열 데이터](./pandas_데이터정제.md)
-* [계층적 색인](./pandas_계층적 색인.md)
+* [계층적색인](./pandas_계층적색인.md)
 * [데이터 합치기](./pandas_데이터합치기.md) : merge, join, concat
 * [재형성과 피벗](./pandas_피벗.md) : stack/unstack, pivot, pivot_table/cross table, melt
 
